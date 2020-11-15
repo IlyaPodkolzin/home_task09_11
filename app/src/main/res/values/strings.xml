@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="city">BERLIN</string>
+    <string name="date">15 Aug, 11:45 - 20 Aug, 12:00</string>
+    <string name="class1">Mini</string>
+    <string name="class1_price">€134.00</string>
+    <string name="class1_car">Toyota Aygo</string>
+    <string name="class2">Economy</string>
+    <string name="class2_price">€134.00</string>
+    <string name="class3">Compact</string>
+    <string name="class3_price">€122.00</string>
+    <string name="filters">Filters</string>
+    <string name="class3_car">Kia Cee\'d</string>
+    <string name="num_of_seats">4</string>
+    <string name="num_of_doors">2-3</string>
+    <string name="some_num">2</string>
+    <string name="transmission">M</string>
+    <string name="class3_per_day">€21.00/day</string>
+    <string name="class1_per_day">€23.00/day</string>
+    <color name="white_text_color">#f3fafd</color>
+    <color name="three_boxes_color">#7b86bb</color>
+    <color name="violet_background_and_text_color">#5c66aa</color>
+    <color name="light_violet_text_color">#9daae1</color>
+    <color name="date_color">#b6c1eb</color>
+    <color name="forward_white_elements_color">#fcfeff</color>
+    <color name="second_background_color">#f7f8fd</color>
+    <color name="first_background_color">#eff0f1</color>
+    <color name="information_color">#3e3a3a</color>
+    <color name="total_price_color">#f49288</color>
+    <color name="gray_text">#989a9a</color>
+</resources>
